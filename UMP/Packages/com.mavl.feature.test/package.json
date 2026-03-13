@@ -1,0 +1,10 @@
+{
+  "name": "com.mavl.feature.test",
+  "version": "1.0.0",
+  "displayName": "Test Feature",
+  "description": "Reusable test feature for multiple Unity projects.",
+  "unity": "2022.3",
+  "author": {
+    "name": "litao"
+  }
+}
